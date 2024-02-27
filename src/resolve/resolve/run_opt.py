@@ -6,7 +6,7 @@ import sys
 import traceback
 from typing import Optional
 
-import highspy
+#import highspy
 import pandas as pd
 import pyomo.environ as pyo
 import typer
